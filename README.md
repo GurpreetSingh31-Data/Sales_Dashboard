@@ -29,10 +29,11 @@ The map shows customer distribution, indicating a concentration of sales in Nort
 
 The bottom 5 sales products, such as the 1939 Chevrolet Coupe and 1969 Mercedes-Benz 280S, have lower sales, suggesting either less demand or a potential area for improvement.  
 
+  
   ![Screenshot 2024-08-08 153329](https://github.com/user-attachments/assets/16aaf540-6995-4c04-97ba-0515721507df)  
   
 
-## Second Image Insights:  
+## Key Insights:  
 
 ### 1)Product Line Comparison:  
 
